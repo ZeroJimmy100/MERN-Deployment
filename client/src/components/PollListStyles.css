@@ -1,0 +1,19 @@
+#delete{
+    background-color: red;
+}
+
+#First{
+    display: inline-block;
+    width: 400px;
+    height: 400px;
+    border-color: black;
+    
+}
+
+#Second{
+    display: block;
+    width: 400px;
+    height: 600px;
+    
+    border-color: red;
+}
